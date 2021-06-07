@@ -1,0 +1,50 @@
+## Arithmetic Operators
+
+An operator is a character that performs a task in our code. 
+JavaScript has several built-in arithmetic operators, that allow us to perform mathematical calculations on numbers. These include the following operators and their corresponding symbols:
+
+- Add: +
+- Subtract: -
+- Multiply: *
+- Divide: /
+- Remainder: %
+
+## String Concatenation
+
+Operators aren’t just for numbers! When a + operator is used on two strings, it appends the right string to the left string:
+
+```
+console.log('hi' + 'ya'); // Prints 'hiya'
+```
+
+This process of appending one string to another is called concatenation.
+
+## Properties
+
+When you introduce a new piece of data into a JavaScript program, the browser saves it as an instance of the data type. 
+Ex: Every string instance has a property called length that stores the number of characters in that string.
+
+```
+console.log('Hello'.length); // Prints 5
+```
+
+## Methods
+
+Methods are actions we can perform. JavaScript provides a number of string methods.
+
+We call, or use, these methods by appending an instance with:
+
+- a period (the dot operator)
+- the name of the method
+- opening and closing parentheses
+E.g. 'example string'.methodName()
+
+## Built-in Objects
+
+Objects can have methods.
+Ex: Let’s call the .random() method from the built-in Math object:
+
+```
+console.log(Math.random()); // Prints a random number between 0 and 1
+
+```
