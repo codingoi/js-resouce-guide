@@ -1,4 +1,4 @@
-# js-resouce-guide
+# Javacript Resouce Guide
 
 [01. ES-6](https://github.com/osita-igwe/js-resouce-guide/blob/main/01.%20ES-6.md) <br>
 [02. Code vs Programming](https://github.com/osita-igwe/js-resouce-guide/blob/main/02.%20Code%20vs%20Programming.md) <br>
